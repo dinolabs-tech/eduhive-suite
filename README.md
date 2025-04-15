@@ -53,9 +53,13 @@ To set up the project locally:
 
 📞 Contact
 Developed by Dino
+
 Founder – Dinolabs Tech Services
+
 📧 Email: dinolabs.tech@gmail.com
+
 🌐 Portfolio: www.dinolabs.com 
+
 GitHub: github.com/dinolabs-tech
 
 💡 For demo access, testing credentials, or commercial use, feel free to reach out via email or GitHub.
