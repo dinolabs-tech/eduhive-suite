@@ -23,13 +23,7 @@
 - **Desktop Modules**: VB.NET (Guna UI), Crystal Reports  
 - **Database**: MySQL (Structured Schema)
 
----
 
-## 🖼️ Screenshots
-<!-- Add your screenshots here -->
-*(Coming Soon: Include screenshots or GIFs demonstrating dashboard, result view, and student modules)*
-
----
 
 ## 🚀 Getting Started
 
